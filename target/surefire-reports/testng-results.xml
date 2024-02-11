@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-11T15:27:56 IST" name="Suite" finished-at="2024-02-11T15:29:17 IST" duration-ms="80161">
+    <groups>
+    </groups>
+    <test started-at="2024-02-11T15:27:56 IST" name="Test" finished-at="2024-02-11T15:29:17 IST" duration-ms="80161">
+      <class name="com.entrata.test.entratatest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:27:56 IST" name="beforeSuite" finished-at="2024-02-11T15:27:56 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:27:56 IST" name="configBc" finished-at="2024-02-11T15:28:07 IST" duration-ms="10331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method signature="Verify_SignIn_With_password()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:28:07 IST" name="Verify_SignIn_With_password" finished-at="2024-02-11T15:28:21 IST" duration-ms="14459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_SignIn_With_password -->
+        <test-method signature="Verify_Signin_with_Email_ID()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:28:21 IST" name="Verify_Signin_with_Email_ID" finished-at="2024-02-11T15:28:35 IST" duration-ms="13476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Signin_with_Email_ID -->
+        <test-method signature="verify_WithInvalid_credentail()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:28:35 IST" name="verify_WithInvalid_credentail" finished-at="2024-02-11T15:28:50 IST" duration-ms="14716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_WithInvalid_credentail -->
+        <test-method signature="verify_with_ContactPage()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:28:50 IST" name="verify_with_ContactPage" finished-at="2024-02-11T15:29:16 IST" duration-ms="26460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_ContactPage -->
+        <test-method is-config="true" signature="ConfigAT()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:29:16 IST" name="ConfigAT" finished-at="2024-02-11T15:29:17 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAT -->
+        <test-method is-config="true" signature="Kill()[pri:0, instance:com.entrata.test.entratatest@29626d54]" started-at="2024-02-11T15:29:17 IST" name="Kill" finished-at="2024-02-11T15:29:17 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Kill -->
+      </class> <!-- com.entrata.test.entratatest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

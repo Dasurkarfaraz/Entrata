@@ -1,0 +1,5 @@
+com\entrata\pages\SignInpage.class
+com\entrata\pages\EntrataMainPage.class
+com\entrata\pages\LoginPage.class
+com\entrata\test\entratatest.class
+com\entrata\pages\resident_login_page.class
