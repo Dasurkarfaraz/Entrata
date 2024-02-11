@@ -14,3 +14,25 @@ In order to utilise this project you need to have the following installed locall
 
 * Maven 
 * Java 11
+
+  
+### Executing program
+
+* Clone Repo.
+* Install Requirements.
+* Open Cmd and go to the Project Folder.
+* Run Maven Command
+```
+mvn clean test
+```
+
+## Help
+
+Please Connect your device to Internet.
+
+
+## Authors
+
+Contributors names and contact info
+ 
+ [Faraz_Dasurkar](https://www.linkedin.com/in/farazdasurkar/)
